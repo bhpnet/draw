@@ -1,0 +1,1 @@
+export const bhp= "https://scan.bhpnet.io/tx/"
